@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.list{
+  width:40vw;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  width: 90vw;
+  background: white;
+}
+
+.iron{
+  font-size:50px;
+  float:left;
+
+}
+
+.flex{
+  display:flex;
+}
